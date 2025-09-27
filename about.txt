@@ -1,1 +1,3 @@
-this is my about.txt
+Ram prakash
+cs-b
+creating a repository and added a file
